@@ -1,0 +1,11 @@
+main1:
+測試爬蟲可行性
+並針對單一股號進行爬蟲測試
+yahoo stock用table的方式去抓取
+main2:
+改進多股市爬蟲
+Q:碰上0開頭時會有讀取不到問題
+  基於HTTP模組造成的可能問題(資源分配)
+  改用requests模組
+main3:
+預計加上WinForm的使用者介面以便user使用
