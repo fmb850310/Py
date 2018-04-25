@@ -1,11 +1,11 @@
-main1:
-���ժ��Υi���
-�ðw���@�Ѹ��i�檦�δ���
-yahoo stock��table���覡�h���
+﻿main1:
+測試爬蟲可行性
+並針對單一股號進行爬蟲測試
+yahoo stock用table的方式去抓取
 main2:
-��i�h�ѥ�����
-Q:�I�W0�}�Y�ɷ|��Ū��������D
-  ���HTTP�Ҳճy�����i����D(�귽���t)
-  ���requests�Ҳ�
+改進多股市爬蟲
+Q:碰上0開頭時會有讀取不到問題
+  基於HTTP模組造成的可能問題(資源分配)
+  改用requests模組
 main3:
-�w�p�[�WWinForm���ϥΪ̤����H�Kuser�ϥ�
+預計加上WinForm的使用者介面以便user使用
